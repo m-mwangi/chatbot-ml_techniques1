@@ -26,9 +26,8 @@ My metrics were as follows:
 - Perplexity: 1.11375
 
 ## How to run the chatbot
-Begin by running all the cells in the given notebook. 
-In the notebooks, there is a section called Chatbot Testing which when run, will provide the CLI to ask the chatbot maternal health related questions and it will give a reponse.
+- Begin by running all the cells in the given notebook to repeat the process of building the model.
+- Navigate to the section titled "CHATBOT TESTING", where running the code provides a CLI and you can interact with the chatbot by asking maternal health-related questions, and it will give a response.
 
 ## Demo Video
 https://youtu.be/lx4Xjppg-38
-
