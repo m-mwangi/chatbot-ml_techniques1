@@ -31,3 +31,6 @@ My metrics were as follows:
 
 ## Demo Video
 https://youtu.be/lx4Xjppg-38
+
+![image](https://github.com/user-attachments/assets/74eb10b6-e830-4d77-be5c-5bab4da2481f)
+
